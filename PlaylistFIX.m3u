@@ -520,6 +520,51 @@ https://tvratu.my.id/vid/index.mpd?id=20216
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21178
 https://tvratu.my.id/vid/index.mpd?id=21178
 
+#EXTINF:-1 tvg-id="motogp" group-title="Sports" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/MotoGP.png",MotoGP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/F1%20tv.png",F1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
 #EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
 #EXTINF:-1 tvg-id="NontonGP.lol" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2M1PlM97iqEuD-set66a8uRcBSeyGrAqJ0ae3N3hUKyXlp0r1nNVcHGeDf7bvHg1UQBX2mXeibrqxwQweBFou5HJxC_tjBmt6b605L8qc2FSaAuq-DAaPQHmoo9rnO2X6MoMKbFzPDuQd8K6gmU4TVLrR1Sx6Qnllg6c7IUJJJPsh1PQBL3sczhntrk/s200/newlogo.png" group-title="Sports",NontonGP LOL
 https://master3.s5stream.top/hls/stream.m3u8
+
+# <============================ VOD Section ========================>
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",The Last Stage
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-21320108-010626-merge/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Result & Reunion
+https://past-event.rctiplus.id/vids/indonesianidol202525052026full/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Grand Final
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-21310107-180526-merge/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Road To Grand Final
+https://past-event.rctiplus.id/vids/indonesianidol202511052026full/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 12
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-21320113-040526-merge/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 11
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-21370113-270426/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 8
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-23070008-060426/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 7
+https://past-event.rctiplus.id/vids/indonesianidol202530032026/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
