@@ -1,0 +1,31 @@
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",The Last Stage
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-21320108-010626-merge/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Result & Reunion
+https://past-event.rctiplus.id/vids/indonesianidol202525052026full/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Grand Final
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-21310107-180526-merge/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Road To Grand Final
+https://past-event.rctiplus.id/vids/indonesianidol202511052026full/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 12
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-21320113-040526-merge/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 11
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-21370113-270426/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 8
+https://past-event.rctiplus.id/vids/indonesian-idol-2025-23070008-060426/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 7
+https://past-event.rctiplus.id/vids/indonesianidol202530032026/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
