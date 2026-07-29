@@ -29,3 +29,7 @@ https://past-event.rctiplus.id/vids/indonesian-idol-2025-23070008-060426/v_,2.,3
 #EXTVLCOPT:http-referrer=https://rctiplus.com/
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 7
 https://past-event.rctiplus.id/vids/indonesianidol202530032026/v_,2.,3.,mp4.kkvod/rctiplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/favicon.png" group-title="VOD Indonesian Idol",Spekta 7
+https://pastevent.rctiplus.id/void/20260409/indonesian_idol_xiv_spekta_6_,3.,2.,h267.kkvod/rctiplus.m3u8
