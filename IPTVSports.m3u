@@ -199,12 +199,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
 #EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
-#EXTINF:-1 tvg-id="NontonGP.lol" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2M1PlM97iqEuD-set66a8uRcBSeyGrAqJ0ae3N3hUKyXlp0r1nNVcHGeDf7bvHg1UQBX2mXeibrqxwQweBFou5HJxC_tjBmt6b605L8qc2FSaAuq-DAaPQHmoo9rnO2X6MoMKbFzPDuQd8K6gmU4TVLrR1Sx6Qnllg6c7IUJJJPsh1PQBL3sczhntrk/s200/newlogo.png" group-title="Sports",NontonGP LOL
+#EXTINF:-1 tvg-id="NontonGP.lol" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2M1PlM97iqEuD-set66a8uRcBSeyGrAqJ0ae3N3hUKyXlp0r1nNVcHGeDf7bvHg1UQBX2mXeibrqxwQweBFou5HJxC_tjBmt6b605L8qc2FSaAuq-DAaPQHmoo9rnO2X6MoMKbFzPDuQd8K6gmU4TVLrR1Sx6Qnllg6c7IUJJJPsh1PQBL3sczhntrk/s200/newlogo.png" group-title="Sports",NontonGP
 https://master3.s5stream.top/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdJh5T9mjR_khHytH1Fj3gOToJf2L18dcAzPZmrvJaA&s=10" group-title="Sports",PIALA PRESIDEN
-#EXTVLCOPT:http-referrer=https://ppdd13.ifrplaydifub.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMjIwOTIwMjAzIiwiY2lkIjoibGl2ZV8yMTg3Ml9jNzYwZjMwMTYxNDMiLCJwb2xpY3kiOiI1a3hrUzJHK0hsSFJvYWdvUDBhTndmMWJZdDEwSmVZSjJoQlZ6NzhsZDJnQlByQUVlOWdDT29Obm11SUliRnowdGhKeFlraHJoU1l5aEhqcUtxbG9va1VSNnhYWVZlZC9ZY2ljbkx0TC8vWUtybDV1V0dMdk1kT1VlWHdkT0xtWCIsInRpbWVzdGFtcCI6IjIwMjYtMDctMjVUMTA6MzM6NDFaIiwiaGFzaCI6InZpRlQySW8vSGpKQUNQdE84blBRZG1HUHlHRkM2RTlpdEJXRWRkUk42UnM9Iiwia2V5X3JvdGF0aW9uIjpmYWxzZSwidmlkaW9fY29udGVudF9pZCI6MjE4NzIsInZpZGlvX2NvbnRlbnRfdHlwZSI6IkxpdmVzdHJlYW1pbmciLCJpc19wcmV2aWV3IjpmYWxzZX0%3D
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/21872/file/drm/dash/stream.mpd?hdnts=exp=1784975921~acl=/stream/21872/file/drm/dash/stream.mpd!/stream/21872/file/drm/dash/*/aac/*!/stream/21872/file/drm/dash/*/*-2160p/*!/stream/21872/file/drm/dash/*/*-1440p/*!/stream/21872/file/drm/dash/*/*-1080p/*!/stream/21872/file/drm/dash/*/*-720p/*!/stream/21872/file/drm/dash/*/*-480p/*!/stream/21872/file/drm/dash/*/*-360p/*~id=220920203~hmac=fff626d20cf6b2afe73d2f472a40cf4c033bf94dfe8c41fb5ba29cb74ff8a0e9
+#EXTVLCOPT:http-referrer=https://esp32.nontonx.com/
+#EXTINF:-1 tvg-id="NontonGP.lol" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2M1PlM97iqEuD-set66a8uRcBSeyGrAqJ0ae3N3hUKyXlp0r1nNVcHGeDf7bvHg1UQBX2mXeibrqxwQweBFou5HJxC_tjBmt6b605L8qc2FSaAuq-DAaPQHmoo9rnO2X6MoMKbFzPDuQd8K6gmU4TVLrR1Sx6Qnllg6c7IUJJJPsh1PQBL3sczhntrk/s200/newlogo.png" group-title="Sports",NontonGP 1080p60
+https://master3.s5stream.top/hls/0/stream.m3u8
+
