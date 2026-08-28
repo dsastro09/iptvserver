@@ -133,7 +133,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/in
 #EXTINF:-1 tvg-id="MDTV.id" group-title="CH V+ (National)" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png",MDTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
-#EXTINF:-1 tvg-id="JTV.id@SD" group-title="CH V+ (National)" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png",JTV
+#EXTINF:-1 tvg-id="JTV.id@SD" group-title="CH V+ (National)" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png",JTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
