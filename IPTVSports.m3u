@@ -7,6 +7,13 @@
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=122&type=fitnah
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beIN Sports 1 (Vidio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMjc1NDMyNzYiLCJjaWQiOiJsaXZlXzYyOTlfMWYyNzI1OGEzOGQ2IiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb2tVUjZ4WFlWZWQvWWNpY25MdEwvL1oxdzdFUlVGT0R5TjYrSEFaK3llOTYiLCJ0aW1lc3RhbXAiOiIyMDI2LTA4LTMwVDE2OjExOjIyWiIsImhhc2giOiJyMk82Q3gzMUZ5VDJJK0FrQjlvNlppeTBraEV2YWZ2NlNLWEVhekJIaDBZPSIsImtleV9yb3RhdGlvbiI6ZmFsc2UsInZpZGlvX2NvbnRlbnRfaWQiOjYyOTksInZpZGlvX2NvbnRlbnRfdHlwZSI6IkxpdmVzdHJlYW1pbmciLCJpc19wcmV2aWV3IjpmYWxzZX0%3D
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/stream/6299/res=1080p/file/drm/dash/stream.mpd?hdnts=exp=1788106582~acl=/stream/6299/res=1080p/file/drm/dash/stream.mpd!/stream/6299/file/drm/dash/*/aac/*!/stream/6299/file/drm/dash/*/*-1080p/*!/stream/6299/file/drm/dash/*/*-720p/*!/stream/6299/file/drm/dash/*/*-480p/*!/stream/6299/file/drm/dash/*/*-360p/*~id=27543276~hmac=4536c891246bef68fb6bd005f3dfb90900887cac6f416d3ecceba6f51ed782d5
+
 #EXTINF:-1 tvg-id="beINSports2.qa@MENA" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",beIN Sports 2 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -14,12 +21,26 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=123&type=fitnah
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
+#EXTINF:-1 tvg-id="beINSports2.qa@MENA" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png",beIN Sports 2 (Vidio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiYWxsVXNlcnMiLCJjaWQiOiJsaXZlXzE3ODc1XzNmNDJlNzYxM2MxOSIsInBvbGljeSI6IjVreGtTMkcrSGxIUm9hZ29QMGFOd2YxYll0MTBKZVlKMmhCVno3OGxkMmdCUHJBRWU5Z0NPb05ubXVJSWJGejB0aEp4WWtocmhTWXloSGpxS3Fsb29rVVI2eFhZVmVkL1ljaWNuTHRMLy9aMXc3RVJVRk9EeU42K0hBWit5ZTk2IiwidGltZXN0YW1wIjoiMjAyNi0wOC0zMFQxNjoxMzowMFoiLCJoYXNoIjoiSDZLTHZlT3BFeWR5ekphSUI1Z3JCekF2TXlpdzllLzBOUVcxSTRBdnIvWT0iLCJrZXlfcm90YXRpb24iOmZhbHNlLCJ2aWRpb19jb250ZW50X2lkIjoxNzg3NSwidmlkaW9fY29udGVudF90eXBlIjoiTGl2ZXN0cmVhbWluZyIsImlzX3ByZXZpZXciOmZhbHNlfQ%3D%3D
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/stream/17875/res=1080p/file/drm/dash/stream.mpd?hdnts=exp=1788106680~acl=/stream/17875/res=1080p/file/drm/dash/stream.mpd!/stream/17875/file/drm/dash/*/aac/*!/stream/17875/file/drm/dash/*/*-1080p/*!/stream/17875/file/drm/dash/*/*-720p/*!/stream/17875/file/drm/dash/*/*-480p/*!/stream/17875/file/drm/dash/*/*-360p/*~id=27543276~hmac=916a3092c14fcce0b74e9bd50f7f1887c66ab4d0c7f704b7a86b83b07f31d2ad
+
 #EXTINF:-1 tvg-id="beINSports3.qa@Indonesia" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",beIN Sports 3 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=124&type=fitnah
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="beINSports3.qa@Indonesia" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png",beIN Sports 3 (Vidio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiYWxsVXNlcnMiLCJjaWQiOiJsaXZlXzYzMTdfZTE0MDEzOWFlYWU2IiwicG9saWN5IjoiNWt4a1MyRytIbEhSb2Fnb1AwYU53ZjFiWXQxMEplWUoyaEJWejc4bGQyZ0JQckFFZTlnQ09vTm5tdUlJYkZ6MHRoSnhZa2hyaFNZeWhIanFLcWxvb2tVUjZ4WFlWZWQvWWNpY25MdEwvL1oxdzdFUlVGT0R5TjYrSEFaK3llOTYiLCJ0aW1lc3RhbXAiOiIyMDI2LTA4LTMwVDE2OjEzOjU5WiIsImhhc2giOiJDa0JZVzNUVWVkQjZyZ1VFWTFoKzUvNHZQMFpFZGNpL09TZ1JDb2EzMVFjPSIsImtleV9yb3RhdGlvbiI6ZmFsc2UsInZpZGlvX2NvbnRlbnRfaWQiOjYzMTcsInZpZGlvX2NvbnRlbnRfdHlwZSI6IkxpdmVzdHJlYW1pbmciLCJpc19wcmV2aWV3IjpmYWxzZX0%3D
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/stream/6317/res=1080p/file/drm/dash/stream.mpd?hdnts=exp=1788106739~acl=/stream/6317/res=1080p/file/drm/dash/stream.mpd!/stream/6317/file/drm/dash/*/aac/*!/stream/6317/file/drm/dash/*/*-1080p/*!/stream/6317/file/drm/dash/*/*-720p/*!/stream/6317/file/drm/dash/*/*-480p/*!/stream/6317/file/drm/dash/*/*-360p/*~id=27543276~hmac=c6d5fce62a9f80b2044b916ffdff8d8ca7cb47c93bea3a0fc94f6e50f3df53e1
 
 #EXTINF:-1 tvg-id="beINSports4.qa@MENA" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png",beIN Sports 4 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
