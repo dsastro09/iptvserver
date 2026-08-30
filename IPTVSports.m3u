@@ -182,6 +182,8 @@ https://boti.my.id/index.mpd?u=distrasastro3%40gmail.com&x=TLmFW6mz7CsfugkSYNGc&
 https://boti.my.id/index.mpd?u=distrasastro3%40gmail.com&x=_nVus2jCnX4JQ2bWozjy&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjI3NTQzMjc2fSwiZXhwIjoxNzg4MDgzMzQxfQ._r6vLK-b9v0HR-U1WaQl4ZrxOBSPZ2EI4BAWFP8SgKY&id=20216&type=dash
 
 #EXTINF:-1 tvg-id="ChampionsFight.id@HD" group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/jWCAr7aSuc4AvvQ-KJjq3xH1KaE=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/20216/1a9c41.png",Premier League
+
+#EXTVLCOPT:http-referrer=https://vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license.vidio.com/ri/licenseManager.do?pallycon-customdata-v2=eyJkcm1fdHlwZSI6IldpZGV2aW5lIiwic2l0ZV9pZCI6Ik1RRFQiLCJ1c2VyX2lkIjoiMjc1NDMyNzYiLCJjaWQiOiJsaXZlXzIyMDIyXzE4Zjk0MGU3YzBlZSIsInBvbGljeSI6IjVreGtTMkcrSGxIUm9hZ29QMGFOd2YxYll0MTBKZVlKMmhCVno3OGxkMmdCUHJBRWU5Z0NPb05ubXVJSWJGejB0aEp4WWtocmhTWXloSGpxS3Fsb29uRkNvbzVHMGFxakpLWDhudUN2dXhDdUtpR0Rja0NLemo1OC9wMzhSYzVrIiwidGltZXN0YW1wIjoiMjAyNi0wOC0zMFQxNTo0Mjo1NFoiLCJoYXNoIjoiaXJJOHN1RmRtOC9UczdTcjhLeENqRlhMOU1OTS9hUnBVdTkvNmFUbXgxbz0iLCJrZXlfcm90YXRpb24iOmZhbHNlLCJ2aWRpb19jb250ZW50X2lkIjoyMjAyMiwidmlkaW9fY29udGVudF90eXBlIjoiTGl2ZXN0cmVhbWluZyIsImlzX3ByZXZpZXciOnRydWV9
