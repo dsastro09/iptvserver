@@ -142,7 +142,7 @@ https://video.detik.com/trans7/smil:trans7/chunklist_w734650975_b744100_sleng.m3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=7.play
+#KODIPROP:inputstream.adaptive.license_key=https://api.cubmu.com/global/v1/widevine/license
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://thumbor.prod.vidiocdn.com/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="TV Lokal Pride",Trans7 HD (Alt 2)
 https://cdnjktbpid02.transvision.co.id/riutx01-25bf06b829682dd0aaeebb60bc6bd02d/dash/VFJBTlM3LW15/vx9-mdrmprt02/manifest.mpd
 
