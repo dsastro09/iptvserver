@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz,https://raw.githubusercontent.com/dhasap/dhanytv/refs/heads/main/epg.xml"
-https://boti.my.id/saya.suka?id=120&type=fitnah
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
